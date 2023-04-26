@@ -6,6 +6,6 @@ channels:
     - nodefaults
 
 dependencies:
-    - ovito-jupyter 3.7.9 py37hcdde717_61
+    - ovito-jupyter 
     - lammps
     - jupyterlab
