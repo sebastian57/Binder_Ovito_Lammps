@@ -1,0 +1,15 @@
+name: binder-ovito-lammps
+
+channels:
+    - https://conda.ovito.org
+    - conda-forge
+    - nodefaults
+
+dependencies:
+    - ovito-jupyter 3.7.9 py37hcdde717_61
+    - ipywidgets
+    - lammps
+    - numpy
+    - matplotlib
+    - jupyterlab
+    - mpi
