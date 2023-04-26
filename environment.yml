@@ -13,3 +13,4 @@ dependencies:
     - numpy 
     - matplotlib
     - ipywidgets
+    - pandas
