@@ -6,6 +6,6 @@ channels:
     - nodefaults
 
 dependencies:
-    - ovito-jupyter 
+    - ovito 
     - lammps
     - jupyterlab
