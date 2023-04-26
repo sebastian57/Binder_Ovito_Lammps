@@ -9,3 +9,7 @@ dependencies:
     - ovito 
     - lammps
     - jupyterlab
+    - mpi
+    - numpy 
+    - matplotlib
+    - ipywidgets
