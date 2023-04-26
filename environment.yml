@@ -7,9 +7,5 @@ channels:
 
 dependencies:
     - ovito-jupyter 3.7.9 py37hcdde717_61
-    - ipywidgets
     - lammps
-    - numpy
-    - matplotlib
     - jupyterlab
-    - mpi
