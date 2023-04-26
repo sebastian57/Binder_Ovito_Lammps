@@ -1,1 +1,0 @@
-# Binder_Ovito_Lammps
